@@ -5,3 +5,5 @@ Batallo con este kb
 Ya
 Esta es el primer archivo
 colaborativo de Xavier.
+Vamos a tratar de generar un conflicto
+entre las 2 laptops
