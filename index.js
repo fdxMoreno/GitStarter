@@ -16,7 +16,7 @@ module.exports = app => {
 				firstName: req.session.agent.firstName,
 				lastName: req.session.agent.lastName,
 				email: req.session.agent.userEmail,
-				scopes: req.session.agent.scopes,
+				scope: req.session.agent.scopes,
 				phoneExtension: req.session.agent.phoneExtension
 			});
 		} else {
