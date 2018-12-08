@@ -6,3 +6,5 @@ Ya
 Esta es el primer archivo
 colaborativo de Xavier.
 Modficación -- muajajaja
+Vamos a tratar de generar un conflicto
+entre las 2 laptops
